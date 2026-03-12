@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="https://www.example.com"
+  xmlns="https://www.example.com"
+  elementFormDefault="qualified">
+
+
+<xs:element name="retail">
+        <xs:complexType>
+            <xs:sequence>
+              <xs:element name="batchNumber" type="xs:string"/>
+              <xs:element name="brandName" type="xs:string"/>
+              <xs:element name="category" type="xs:string"/>
+              <xs:element name="expiry" type="xs:date"/>
+              <xs:element name="price" type="xs:decimal"/>
+            </xs:sequence>
+        </xs:complexType>
+  </xs:element>
+</xs:schema>
