@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<banking>
+	<accountBalance>50000</accountBalance>
+	<accountName>Maria Santos</accountName>
+	<accountNumber>123456789</accountNumber>
+	<bankName>BDO</bankName>
+	<transactionRecords>12</transactionRecords>
+</banking>

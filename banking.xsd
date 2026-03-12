@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="https://www.example.com"
+  xmlns="https://www.example.com"
+  elementFormDefault="qualified">
+
+
+<xs:element name="banking">
+        <xs:complexType>
+            <xs:sequence>
+              <xs:element name="accountBalance" type="xs:string"/>
+              <xs:element name="accountName" type="xs:string"/>
+              <xs:element name="accountNumber" type="xs:string"/>
+              <xs:element name="bankName" type="xs:string"/>
+              <xs:element name="transactionRecords" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<entertainment>
+	<director>Christopher Nolan</director>
+	<genre>Sci-Fi</genre>
+	<movieName>Inception</movieName>
+	<rating>8.8</rating>
+	<releaseDate>2010-07-16</releaseDate>
+</entertainment>
