@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<retail>
+	<batchNumber>123</batchNumber>
+	<brandName>Mentos</brandName>
+	<category>candies</category>
+	<expiry>2026-09-25</expiry>
+	<price>1.0</price>
+</retail>
